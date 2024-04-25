@@ -1,9 +1,10 @@
-#  FFA-Net: Feature Fusion Attention Network for Single Image Dehazing
+#  DecloudNet: Cross-patch Consistency is a Non-trivial Problem for Thin Cloud Removal from Wide-swath Multi-spectral Images
  Official implementation.
 
 ---
 
-by Mingkai Li, Qizhi Xu et al. Beijing Institute of Technology
+by Mingkai Li, Qizhi Xu, Jian Guo and Wei Li. 
+Beijing Institute of Technology
 
 ### Introduction
 
